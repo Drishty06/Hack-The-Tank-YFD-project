@@ -34,6 +34,6 @@
 *
 
 # Glimpses of the project
-
-
-
+![alt text](https://github.com/Dhara3078/Hack-The-Tank-YFD-project/blob/main/images/original4.jpeg)
+![alt text](https://github.com/Dhara3078/Hack-The-Tank-YFD-project/blob/main/images/skin1.png)
+![alt text](https://github.com/Dhara3078/Hack-The-Tank-YFD-project/blob/main/images/countored.png)
