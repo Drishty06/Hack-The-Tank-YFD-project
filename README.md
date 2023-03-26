@@ -1,5 +1,5 @@
-# Hack-The-Tank-YFD-project
-# Your Foot Doctor track | Submission for SVNIT HACKATHON: HACK-THE-TANK
+
+# Your Foot Doctor track | Submission for SVNIT hackathon: HACK-THE-TANK
 
 * contour based approach
 * CNN Model
